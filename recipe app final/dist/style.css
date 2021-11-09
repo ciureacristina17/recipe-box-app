@@ -1,0 +1,68 @@
+@import url("https://fonts.googleapis.com/css?family=Indie+Flower");
+body {
+    padding-top: 50px;
+    background-color: #80cdfa;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.modal-body,
+.modal-header,
+.modal-footer {
+    background-color: #80cdfa;
+}
+
+.modal-title {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.app-title {
+    border-top: 5px solid red;
+    border-bottom: 5px solid red;
+    border-radius: 12%;
+    box-shadow: 2px 4px 10px red;
+    padding: 3px;
+    display: inline-block;
+    text-align: center;
+}
+
+
+/* .btn {
+    border-radius: 100%;
+} */
+
+.btn-success {
+    background-color: red;
+    border: none;
+}
+
+.btn-danger {
+    background-color: #370ab1;
+    border: none;
+}
+
+h4.panel-title {
+    font-weight: 800;
+    color: black;
+    text-align: center;
+}
+
+.bottom-padding {
+    padding-bottom: 8px;
+    padding-right: 25px;
+}
+
+.modal-content {
+    border-top: 4px solid #8eb77c;
+    border-bottom: 4px solid #8eb77c;
+}
+
+label {
+    font-size: 18px;
+}
+
+li.list-group-item {
+    margin-left: 15px;
+    margin-right: 15px;
+}
